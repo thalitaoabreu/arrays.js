@@ -8,3 +8,4 @@ console.log(media);
 
 // notas.unshift(5); // adiciona o elemento 5 no início do array
 
+
